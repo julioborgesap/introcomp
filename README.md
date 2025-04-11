@@ -70,5 +70,6 @@ Aproveite o jogo e boa diversão!
 
 ## Prints do FIREBASE:
 
-![Logo do projeto](https://imgur.com/a/JgL2BVs)
-![Logo do projeto](https://imgur.com/a/2wHowtv)
+![Dados Firebase](https://imgur.com/a/JgL2BVs)
+![Pontuação Firebase](https://imgur.com/a/2wHowtv)
+*caso seja necessário mais alguma print, entrar em contato.*
