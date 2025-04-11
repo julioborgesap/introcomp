@@ -67,3 +67,8 @@ Pronto! Agora você pode começar a jogar.
 ---
 
 Aproveite o jogo e boa diversão!
+
+## Prints do FIREBASE:
+
+![Logo do projeto](https://imgur.com/a/JgL2BVs)
+![Logo do projeto](https://imgur.com/a/2wHowtv)
