@@ -70,6 +70,8 @@ Aproveite o jogo e boa diversão!
 
 ## Prints do FIREBASE:
 
-![Dados Firebase](https://imgur.com/a/JgL2BVs)
-![Pontuação Firebase](https://imgur.com/a/2wHowtv)
-*caso seja necessário mais alguma print, entrar em contato.*
+![Dados Firebase](https://github.com/user-attachments/assets/2353d0db-90e6-41bb-9424-5ef728b913ae)
+![Captura de tela 2025-04-10 220716](https://github.com/user-attachments/assets/9c660512-86d2-4c1e-a09a-82e214b0030d)
+
+![Link do jogo no Firebase](https://jogochave-3566e.web.app)
+*caso seja necessário mais alguma print ou arquivo, entrar em contato.*
